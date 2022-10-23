@@ -1,10 +1,21 @@
 # my-first-html
 Test de html en VS Code
 <html>
+  <head> 
+   Mi primera pagina
   
-  <title> Hola Mundo </title>
-
-  <head> MY FIRST HTML </html>
-
+  </head>
+  
+  <body> 
+  
+  <header>
+  
+    <title> Hola Mundo </title>
+  
+  
+  </header>
+  
+  </body>
+  
 
 </html>
